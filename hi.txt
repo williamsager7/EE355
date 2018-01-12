@@ -1,0 +1,3 @@
+Welcome to EE 355!
+The magic number for the 'wget' problem in Lab is:
+42103
